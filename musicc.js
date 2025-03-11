@@ -46,9 +46,11 @@ document.addEventListener('DOMContentLoaded', function () {
         { title: "Thank U, Next - Ariana Grande", src: "https://files.catbox.moe/3eiexj.mp3" },
         { title: "We Don't Talk Anymore - Charlie Puth", src: "https://files.catbox.moe/a3lwc2.mp3" },
         { title: "Where We Are - One Direction", src: "https://files.catbox.moe/haegoh.mp3" },
-        { title: "Wonderwall - Oasis", src: "https://files.catbox.moe/2jbkx8.mp3" }, 
-        { title: "Serena - for revenge", src:   "https://files.catbox.moe/j0x78t.mp3" },
-        { title: "joji - glimpse of us", src: "https://files.catbox.moe/4fvtpu.mp4" }
+        { title: "Wonderwall - Oasis", src: "https://files.catbox.moe/2jbkx8.mp3" },
+        { title: "Anti∞Hero - Mighfar Suganda",src:"https://files.catbox.moe/aboux1.mp4"},
+        { title: "Nina - Feast",src:"https://files.catbox.moe/vk.
+        .z74b.mp4"},
+        { title: "Hal hebat - Cakra Khan ",src:"https://files.catbox.moe/nfr5yg.mp4"},
     ],
     C2: [
     { title: "Apa Kabar Mantan - New Version - NDX A.K.A.", src: "https://files.catbox.moe/3vkzob.mp3" },
