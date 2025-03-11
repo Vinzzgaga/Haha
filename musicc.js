@@ -48,8 +48,11 @@ document.addEventListener('DOMContentLoaded', function () {
         { title: "Where We Are - One Direction", src: "https://files.catbox.moe/haegoh.mp3" },
         { title: "Wonderwall - Oasis", src: "https://files.catbox.moe/2jbkx8.mp3" },
         { title: "Anti∞Hero - Mighfar Suganda",src:"https://files.catbox.moe/aboux1.mp4"},
-        { title: "Nina - Feast",src:"https://files.catbox.moe/vk.z74b.mp4"},
-        { title: "Hal hebat - Cakra Khan ",src:"https://files.catbox.moe/nfr5yg.mp4"}
+        { title: "Nina - Feast",src:"https://files.catbox.moe/vkz74b.mp4"},
+        { title: "Hal hebat - Cakra Khan ",src:"https://files.catbox.moe/nfr5yg.mp4"},
+        { title: " wildflower - billie eilish",src:"https://files.catbox.moe/i8sbwh.mp4"},
+        { title:"It's You - Ali Gatie",src:"https://files.catbox.moe/9jispr.mp4"},
+        { title:"Kekasih Yang Tidak Dianggap" ,src:"https://files.catbox.moe/qg4zw1.mp4"}
     ],
     C2: [
     { title: "Apa Kabar Mantan - New Version - NDX A.K.A.", src: "https://files.catbox.moe/3vkzob.mp3" },
@@ -76,7 +79,8 @@ document.addEventListener('DOMContentLoaded', function () {
     { title: "Top Topan - Happy Asmara", src: "https://files.catbox.moe/3lo9g7.mp3" },
     { title: "Tresno Tekan Mati New Version - Remastered 2023 - NDX A.K.A.", src: "https://files.catbox.moe/1sc3v6.mp3" },
     { title: "Widodari - Denny Caknan", src: "https://files.catbox.moe/26xsof.mp3" },
-    { title: "Wirang - Guyon Waton", src: "https://files.catbox.moe/natru2.mp3" }
+    { title: "Wirang - Guyon Waton", src: "https://files.catbox.moe/natru2.mp3" },
+    { title: " Evaluasi - Hindia",scr :"https://files.catbox.moe/5swntc.mp4"}
 ],
     C3: [
         { title: "Akhir Tak Bahagia - Misellia", src: "https://files.catbox.moe/7j8l7g.mp3" },
