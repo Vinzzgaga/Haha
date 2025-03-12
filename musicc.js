@@ -52,7 +52,8 @@ document.addEventListener('DOMContentLoaded', function () {
         { title: "Hal hebat - Cakra Khan ",src:"https://files.catbox.moe/nfr5yg.mp4"},
         { title: " wildflower - billie eilish",src:"https://files.catbox.moe/i8sbwh.mp4"},
         { title:"It's You - Ali Gatie",src:"https://files.catbox.moe/9jispr.mp4"},
-        { title:"Kekasih Yang Tidak Dianggap" ,src:"https://files.catbox.moe/qg4zw1.mp4"}
+        { title:"Kekasih Yang Tidak Dianggap" ,src:"https://files.catbox.moe/qg4zw1.mp4"},
+        { title:"Cikadap - lagu jorok",src:"https://files.catbox.moe/8zb2tm.mp4"}
     ],
     C2: [
     { title: "Apa Kabar Mantan - New Version - NDX A.K.A.", src: "https://files.catbox.moe/3vkzob.mp3" },
